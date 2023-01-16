@@ -23,4 +23,4 @@
 | فرهاد بیگی‌راد | [beigirad](https://beigirad.ir/) | https://github.com/beigirad | https://twitter.com/beigirad |
 | کیاوش | [kiavash](https://kiavash.one/) | https://github.com/kiamazi | https://twitter.com/kiavash |
 | بهروز حسن‌بیگی | [behroozam](https://behroozam.com/) | https://github.com/behroozam |     |
-
+| امیر شکری | [Amir Shokri](https://ashokri.com/) | https://github.com/amirshnll |  https://twitter.com/amirshnll   |
